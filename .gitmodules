@@ -1,3 +1,6 @@
 [submodule "Website"]
 	path = Website
 	url = git@github.com:MuldowneyFoundation/muldowneyfoundation.github.com.git
+[submodule "GitEMR"]
+	path = GitEMR
+	url = git@github.com:MuldowneyFoundation/GitEMR.git
