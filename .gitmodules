@@ -1,0 +1,3 @@
+[submodule "Developer"]
+	path = Developer
+	url = git@github.com:MuldowneyFoundation/MuldowneyFoundation.git
