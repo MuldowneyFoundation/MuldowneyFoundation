@@ -4,3 +4,6 @@
 [submodule "GitEMR"]
 	path = GitEMR
 	url = git@github.com:MuldowneyFoundation/GitEMR.git
+[submodule "GitEMR_WIKI"]
+	path = GitEMR_WIKI
+	url = git@github.com:MuldowneyFoundation/GitEMR.wiki.git
