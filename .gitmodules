@@ -7,3 +7,6 @@
 [submodule "GitEMR_WIKI"]
 	path = GitEMR_WIKI
 	url = git@github.com:MuldowneyFoundation/GitEMR.wiki.git
+[submodule "Wiki"]
+	path = Wiki
+	url = git@github.com:MuldowneyFoundation/MuldowneyFoundation.wiki.git
