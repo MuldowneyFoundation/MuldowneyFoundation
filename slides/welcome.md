@@ -1,2 +1,3 @@
-# Shining
-This is a new slide. It needs some lovin'!
+# The Muldowney Foundation Developer Community
+
+`From our hearts to their minds`
