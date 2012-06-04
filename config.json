@@ -1,0 +1,11 @@
+{
+  "slides": [
+    "welcome.markdown"
+  ],
+  "title": "The MuldowneyFoundation Developer Community",
+  "plugins": [
+    "resize",
+    "iphone"
+  ],
+  "transitions": "fade"
+}
