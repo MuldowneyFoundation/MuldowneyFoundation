@@ -1,6 +1,6 @@
 {
   "slides": [
-    "welcome.markdown"
+    "welcome.md"
   ],
   "title": "The MuldowneyFoundation Developer Community",
   "plugins": [
